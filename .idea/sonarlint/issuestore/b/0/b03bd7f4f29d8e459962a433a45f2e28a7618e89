@@ -1,0 +1,102 @@
+
+Q
+java:S1444";Make this "public static REQUEST_CODE_REGISTER" field final(ª€â 
+R
+java:S1444"<Make this "public static STR_EXTRA_ACTION_LOGIN" field final(·äÌ
+W
+java:S1444"<Make this "public static STR_EXTRA_ACTION_RESET" field final(ÒÐÛŽÿÿÿÿÿ
+K
+java:S1444	"6Make this "public static STR_EXTRA_ACTION" field final(à¨è
+N
+java:S1444
+"8Make this "public static STR_EXTRA_USERNAME" field final(•Ù©™
+N
+java:S1444"8Make this "public static STR_EXTRA_PASSWORD" field final(ÿ¡
+S
+java:S1444"8Make this "public static STR_DEFAULT_BASE64" field final(õÃÐ÷ÿÿÿÿÿ
+F
+java:S1444")Make this "public static UID" field final(Ï‰²ˆ8†Åñ¬Ð/
+R
+java:S1444"<Make this "public static INTENT_KEY_CHAT_FRIEND" field final(ÃÌÒÔ
+V
+java:S1444";Make this "public static INTENT_KEY_CHAT_AVATA" field final(Ã°¹ýÿÿÿÿ
+N
+java:S1444"8Make this "public static INTENT_KEY_CHAT_ID" field final(ªæÚÌ
+X
+java:S1444"=Make this "public static INTENT_KEY_CHAT_ROOM_ID" field final(ªÒ‹çüÿÿÿÿ
+K
+java:S1444"5Make this "public static TIME_TO_REFRESH" field final(ŸÁ•
+P
+java:S1444"5Make this "public static TIME_TO_OFFLINE" field final(Äª¢ûýÿÿÿÿ
+E
+java:S1444"*Make this "public static umur" field final(‚”‡‘ÿÿÿÿÿ
+\
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ŸÁ•
+a
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(Äª¢ûýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ð‡Çþÿÿÿÿ
+w
+java:S1104"aMake REQUEST_CODE_REGISTER a static final constant or non-public and provide accessors if needed.(ª€â 
+x
+java:S1104"bMake STR_EXTRA_ACTION_LOGIN a static final constant or non-public and provide accessors if needed.(·äÌ
+}
+java:S1104"bMake STR_EXTRA_ACTION_RESET a static final constant or non-public and provide accessors if needed.(ÒÐÛŽÿÿÿÿÿ
+q
+java:S1104	"\Make STR_EXTRA_ACTION a static final constant or non-public and provide accessors if needed.(à¨è
+t
+java:S1104
+"^Make STR_EXTRA_USERNAME a static final constant or non-public and provide accessors if needed.(•Ù©™
+t
+java:S1104"^Make STR_EXTRA_PASSWORD a static final constant or non-public and provide accessors if needed.(ÿ¡
+y
+java:S1104"^Make STR_DEFAULT_BASE64 a static final constant or non-public and provide accessors if needed.(õÃÐ÷ÿÿÿÿÿ
+l
+java:S1104"OMake UID a static final constant or non-public and provide accessors if needed.(Ï‰²ˆ8Åñ¬Ð/
+x
+java:S1104"bMake INTENT_KEY_CHAT_FRIEND a static final constant or non-public and provide accessors if needed.(ÃÌÒÔ
+|
+java:S1104"aMake INTENT_KEY_CHAT_AVATA a static final constant or non-public and provide accessors if needed.(Ã°¹ýÿÿÿÿ
+t
+java:S1104"^Make INTENT_KEY_CHAT_ID a static final constant or non-public and provide accessors if needed.(ªæÚÌ
+~
+java:S1104"cMake INTENT_KEY_CHAT_ROOM_ID a static final constant or non-public and provide accessors if needed.(ªÒ‹çüÿÿÿÿ
+q
+java:S1104"[Make TIME_TO_REFRESH a static final constant or non-public and provide accessors if needed.(ŸÁ•
+v
+java:S1104"[Make TIME_TO_OFFLINE a static final constant or non-public and provide accessors if needed.(Äª¢ûýÿÿÿÿ
+k
+java:S1104"PMake umur a static final constant or non-public and provide accessors if needed.(‚”‡‘ÿÿÿÿÿ
+v
+java:S3008"`Rename this field "REQUEST_CODE_REGISTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª€â 
+w
+java:S3008"aRename this field "STR_EXTRA_ACTION_LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·äÌ
+|
+java:S3008"aRename this field "STR_EXTRA_ACTION_RESET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÐÛŽÿÿÿÿÿ
+p
+java:S3008	"[Rename this field "STR_EXTRA_ACTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¨è
+s
+java:S3008
+"]Rename this field "STR_EXTRA_USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ù©™
+s
+java:S3008"]Rename this field "STR_EXTRA_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¡
+x
+java:S3008"]Rename this field "STR_DEFAULT_BASE64" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÃÐ÷ÿÿÿÿÿ
+k
+java:S3008"NRename this field "UID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‰²ˆ8‘Åñ¬Ð/
+w
+java:S3008"aRename this field "INTENT_KEY_CHAT_FRIEND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÌÒÔ
+{
+java:S3008"`Rename this field "INTENT_KEY_CHAT_AVATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã°¹ýÿÿÿÿ
+s
+java:S3008"]Rename this field "INTENT_KEY_CHAT_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªæÚÌ
+}
+java:S3008"bRename this field "INTENT_KEY_CHAT_ROOM_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÒ‹çüÿÿÿÿ
+p
+java:S3008"ZRename this field "TIME_TO_REFRESH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÁ•
+u
+java:S3008"ZRename this field "TIME_TO_OFFLINE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äª¢ûýÿÿÿÿ
+O
+java:S1118":Add a private constructor to hide the implicit public one.(¾§ÂI
+]	java:S125"<This block of commented-out lines of code should be removed.(œƒ®Œÿÿÿÿÿ8›ë²­Ð/
+M
+java:S1135"2Complete the task associated to this TODO comment.(èßÞ®øÿÿÿÿ

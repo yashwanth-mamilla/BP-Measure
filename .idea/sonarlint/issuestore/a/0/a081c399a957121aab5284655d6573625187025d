@@ -1,0 +1,1699 @@
+
+]
+java:S21848"BCast one of the operands of this addition operation to a "double".(ƒÚ¥Ÿøÿÿÿÿ
+]
+java:S2184O"BCast one of the operands of this addition operation to a "double".(ü’İòıÿÿÿÿ
+Y
+java:S2184Ş"BCast one of the operands of this division operation to a "double".(”Æ±ã
+R	java:S107…"<Method has 9 parameters, which is greater than 7 authorized.(³‚Ä—
+R	java:S107¦"<Method has 9 parameters, which is greater than 7 authorized.(ÍƒÊË
+W	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(—ÉÜìıÿÿÿÿ
+R	java:S107Ô"<Method has 8 parameters, which is greater than 7 authorized.(­Ç…’
+W	java:S107¯"<Method has 8 parameters, which is greater than 7 authorized.(ì•­öşÿÿÿÿ
+R	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(­š™ó
+X	java:S107¶"=Method has 11 parameters, which is greater than 7 authorized.(‡¬ë‡şÿÿÿÿ
+s	java:S127¯"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127Ï"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127Ó	"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127ñ	"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127ë
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127ÿ
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127€"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127”"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127Á"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127Õ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+s	java:S127ò2"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬€¥¦ıÿÿÿÿ
+l	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖéåŒùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ‡Çşÿÿÿÿ
+D
+java:S1604Ø"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604£"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604¬"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604Ì"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604ê"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604Ğ	"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604î	"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604Œ
+"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604é
+"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604ı
+"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604ş"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604’"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604¿"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+D
+java:S1604Ó"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+?
+java:S1604á*"(Make this anonymous inner class a lambda(Î¸ƒ€
+?
+java:S1604õ*"(Make this anonymous inner class a lambda(Î¸ƒ€
+D
+java:S1604ï2"(Make this anonymous inner class a lambda(ÕÒƒ¾şÿÿÿÿ
+h	java:S116"SRename this field "wtable_r" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂëÊ‚
+m
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(õÍò™ÿÿÿÿÿ
+g
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›îÅ 
+@
+java:S21858"%Remove this silly call to "Math.ceil"(ƒÚ¥Ÿøÿÿÿÿ
+@
+java:S2185O"%Remove this silly call to "Math.ceil"(ü’İòıÿÿÿÿ
+i
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¦ö‰
+8
+java:S1659Ú""Declare "idx2" on a separate line.(†ş¾g
+8
+java:S1659æ""Declare "idx2" on a separate line.(†ş¾g
+n
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¥îõºÿÿÿÿÿ
+8
+java:S1659¥""Declare "idx2" on a separate line.(†ş¾g
+8
+java:S1659±""Declare "idx2" on a separate line.(†ş¾g
+n
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ğÜ€ùÿÿÿÿ
+T
+java:S1197–"8Move the array designator from the variable to the type.(Éœòğùÿÿÿÿ
+i
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(×ñ¶
+>
+java:S1659³""Declare "ntry" on a separate line.( ¬ìÇÿÿÿÿÿ
+;
+java:S1659³"Declare "i" on a separate line.( ¬ìÇÿÿÿÿÿ
+;
+java:S1659³"Declare "j" on a separate line.( ¬ìÇÿÿÿÿÿ
+7
+java:S1659µ" Declare "k1" on a separate line.(ËËÀ“
+7
+java:S1659µ" Declare "l1" on a separate line.(ËËÀ“
+7
+java:S1659µ" Declare "l2" on a separate line.(ËËÀ“
+7
+java:S1659µ" Declare "ib" on a separate line.(ËËÀ“
+<
+java:S1659·" Declare "ii" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659·" Declare "nf" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659·" Declare "ip" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659·" Declare "nl" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659·" Declare "nq" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659·" Declare "nr" on a separate line.(ß³òëøÿÿÿÿ
+=
+java:S1659¹"!Declare "ipm" on a separate line.(’ğæ¶ÿÿÿÿÿ
+R
+java:S1117·"6Rename "ip" which hides the field declared at line 14.(ß³òëøÿÿÿÿ
+R
+java:S1119¿";Refactor the code to remove this label and the need for it.(õ©áË
+n
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Àí©şÿÿÿÿ
+>
+java:S1659†""Declare "ntry" on a separate line.( ¬ìÇÿÿÿÿÿ
+;
+java:S1659†"Declare "i" on a separate line.( ¬ìÇÿÿÿÿÿ
+;
+java:S1659†"Declare "j" on a separate line.( ¬ìÇÿÿÿÿÿ
+7
+java:S1659ˆ" Declare "k1" on a separate line.(ËËÀ“
+7
+java:S1659ˆ" Declare "l1" on a separate line.(ËËÀ“
+7
+java:S1659ˆ" Declare "l2" on a separate line.(ËËÀ“
+7
+java:S1659ˆ" Declare "ib" on a separate line.(ËËÀ“
+<
+java:S1659Š" Declare "ii" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659Š" Declare "nf" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659Š" Declare "ip" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659Š" Declare "nl" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659Š" Declare "nq" on a separate line.(ß³òëøÿÿÿÿ
+<
+java:S1659Š" Declare "nr" on a separate line.(ß³òëøÿÿÿÿ
+=
+java:S1659Œ"!Declare "ipm" on a separate line.(’ğæ¶ÿÿÿÿÿ
+R
+java:S1117Š"6Rename "ip" which hides the field declared at line 14.(ß³òëøÿÿÿÿ
+R
+java:S1119’";Refactor the code to remove this label and the need for it.(õ©áË
+h
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(½æW
+6
+java:S1659Ø"Declare "i" on a separate line.(í†ÛÄ
+6
+java:S1659Ø"Declare "j" on a separate line.(í†ÛÄ
+6
+java:S1659Ú" Declare "l1" on a separate line.(ïµÉ(
+6
+java:S1659Ú" Declare "l2" on a separate line.(ïµÉ(
+6
+java:S1659Ú" Declare "ib" on a separate line.(ïµÉ(
+<
+java:S1659Ü" Declare "ii" on a separate line.(’›¡úÿÿÿÿ
+<
+java:S1659Ü" Declare "nf" on a separate line.(’›¡úÿÿÿÿ
+<
+java:S1659Ü" Declare "ip" on a separate line.(’›¡úÿÿÿÿ
+<
+java:S1659Ü" Declare "nl" on a separate line.(’›¡úÿÿÿÿ
+<
+java:S1659Ü" Declare "is" on a separate line.(’›¡úÿÿÿÿ
+<
+java:S1659Ü" Declare "nq" on a separate line.(’›¡úÿÿÿÿ
+<
+java:S1659Ü" Declare "nr" on a separate line.(’›¡úÿÿÿÿ
+=
+java:S1659Ş"!Declare "ipm" on a separate line.(’ğæ¶ÿÿÿÿÿ
+R
+java:S1117Ü"6Rename "ip" which hides the field declared at line 14.(’›¡úÿÿÿÿ
+R
+java:S1119å";Refactor the code to remove this label and the need for it.(õ©áË
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ËÎÒö
+=
+java:S1659¼"!Declare "nwh" on a separate line.(Á…ó€úÿÿÿÿ
+=
+java:S1659¼"!Declare "nw0" on a separate line.(Á…ó€úÿÿÿÿ
+=
+java:S1659¼"!Declare "nw1" on a separate line.(Á…ó€úÿÿÿÿ
+>
+java:S1659½""Declare "wn4r" on a separate line.(úØé…øÿÿÿÿ
+>
+java:S1659½""Declare "wk1r" on a separate line.(úØé…øÿÿÿÿ
+>
+java:S1659½""Declare "wk1i" on a separate line.(úØé…øÿÿÿÿ
+>
+java:S1659½""Declare "wk3r" on a separate line.(úØé…øÿÿÿÿ
+>
+java:S1659½""Declare "wk3i" on a separate line.(úØé…øÿÿÿÿ
+;
+java:S1659¾"$Declare "deltaj" on a separate line.(•ºËÕ
+<
+java:S1659¾"%Declare "deltaj3" on a separate line.(•ºËÕ
+6
+java:S1659ü"Declare "l" on a separate line.(É–Ø³
+6
+java:S1659ü"Declare "m" on a separate line.(É–Ø³
+7
+java:S1659ü" Declare "m2" on a separate line.(É–Ø³
+6
+java:S1659ü"Declare "p" on a separate line.(É–Ø³
+6
+java:S1659ü"Declare "q" on a separate line.(É–Ø³
+8
+java:S1659"!Declare "nch" on a separate line.(—°Ø„
+;
+java:S1659"$Declare "deltaj" on a separate line.(½Ú¸
+d	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ˆßú
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(¼ˆßú
+d	java:S100Ã	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¾š£
+i
+java:S3776Ã	"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(ı¾š£
+d	java:S100Ü
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ˆ¥
+i
+java:S3776Ü
+"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.( ˆ¥
+i	java:S100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ó¶¬øÿÿÿÿ
+n
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(€ó¶¬øÿÿÿÿ
+i	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‰ñèûÿÿÿÿ
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(„‰ñèûÿÿÿÿ
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¼ª²¢
+O
+java:S1197‘"8Move the array designator from the variable to the type.(¼ª²¢
+<
+java:S1659”" Declare "l2" on a separate line.(¹Ğå›şÿÿÿÿ
+<
+java:S1659”" Declare "na" on a separate line.(¹Ğå›şÿÿÿÿ
+<
+java:S1659”" Declare "kh" on a separate line.(¹Ğå›şÿÿÿÿ
+<
+java:S1659”" Declare "nf" on a separate line.(¹Ğå›şÿÿÿÿ
+<
+java:S1659”" Declare "ip" on a separate line.(¹Ğå›şÿÿÿÿ
+<
+java:S1659”" Declare "iw" on a separate line.(¹Ğå›şÿÿÿÿ
+=
+java:S1659”"!Declare "ido" on a separate line.(¹Ğå›şÿÿÿÿ
+>
+java:S1659”""Declare "idl1" on a separate line.(¹Ğå›şÿÿÿÿ
+R
+java:S1117”"6Rename "ip" which hides the field declared at line 14.(¹Ğå›şÿÿÿÿ
+n
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ì•ÍÏúÿÿÿÿ
+T
+java:S1197×"8Move the array designator from the variable to the type.(ì•ÍÏúÿÿÿÿ
+7
+java:S1659Ú" Declare "l2" on a separate line.(¿»¥á
+7
+java:S1659Ú" Declare "na" on a separate line.(¿»¥á
+7
+java:S1659Ú" Declare "nf" on a separate line.(¿»¥á
+7
+java:S1659Ú" Declare "ip" on a separate line.(¿»¥á
+7
+java:S1659Ú" Declare "iw" on a separate line.(¿»¥á
+8
+java:S1659Ú"!Declare "ido" on a separate line.(¿»¥á
+9
+java:S1659Ú""Declare "idl1" on a separate line.(¿»¥á
+M
+java:S1117Ú"6Rename "ip" which hides the field declared at line 14.(¿»¥á
+O
+java:S1197"8Move the array designator from the variable to the type.(ÆËø
+O
+java:S1197"8Move the array designator from the variable to the type.(ÆËø
+7
+java:S1659" Declare "ic" on a separate line.(Éÿª
+9
+java:S1659""Declare "idx0" on a separate line.(Éÿª
+9
+java:S1659""Declare "idx1" on a separate line.(Éÿª
+9
+java:S1659""Declare "idx2" on a separate line.(Éÿª
+9
+java:S1659""Declare "idx3" on a separate line.(Éÿª
+9
+java:S1659""Declare "idx4" on a separate line.(Éÿª
+8
+java:S1659Ÿ"!Declare "t1r" on a separate line.(ú¼ç™
+8
+java:S1659Ÿ"!Declare "w1r" on a separate line.(ú¼ç™
+8
+java:S1659Ÿ"!Declare "w1i" on a separate line.(ú¼ç™
+T
+java:S1197ã"8Move the array designator from the variable to the type.(†îä²şÿÿÿÿ
+T
+java:S1197ã"8Move the array designator from the variable to the type.(†îä²şÿÿÿÿ
+<
+java:S1659ä" Declare "ic" on a separate line.(õ¬´²úÿÿÿÿ
+8
+java:S1659å"!Declare "t1r" on a separate line.(ú¼ç™
+8
+java:S1659å"!Declare "w1r" on a separate line.(ú¼ç™
+8
+java:S1659å"!Declare "w1i" on a separate line.(ú¼ç™
+O
+java:S1197¦"8Move the array designator from the variable to the type.(Ã˜í£
+O
+java:S1197¦"8Move the array designator from the variable to the type.(Ã˜í£
+<
+java:S1659©" Declare "ic" on a separate line.(õ¬´²úÿÿÿÿ
+8
+java:S1659ª"!Declare "di2" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "di3" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "cr2" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "dr2" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "dr3" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "ti2" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "ti3" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "tr2" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "tr3" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "w1r" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "w2r" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "w1i" on a separate line.(›Šßˆ
+8
+java:S1659ª"!Declare "w2i" on a separate line.(›Šßˆ
+8
+java:S1659«"!Declare "iw2" on a separate line.(‰îõÚ
+T
+java:S1197ü"8Move the array designator from the variable to the type.(ò’¿òüÿÿÿÿ
+T
+java:S1197ü"8Move the array designator from the variable to the type.(ò’¿òüÿÿÿÿ
+<
+java:S1659ÿ" Declare "ic" on a separate line.(õ¬´²úÿÿÿÿ
+8
+java:S1659€"!Declare "ci3" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "di2" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "di3" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "cr2" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "cr3" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "dr2" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "dr3" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "ti2" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "tr2" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "w1r" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "w2r" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "w1i" on a separate line.(Ø‡Îõ
+8
+java:S1659€"!Declare "w2i" on a separate line.(Ø‡Îõ
+8
+java:S1659"!Declare "iw2" on a separate line.(‰îõÚ
+O
+java:S1197Ñ"8Move the array designator from the variable to the type.(ªè³µ
+O
+java:S1197Ñ"8Move the array designator from the variable to the type.(ªè³µ
+<
+java:S1659Ó" Declare "ic" on a separate line.(õ¬´²úÿÿÿÿ
+=
+java:S1659Ô"!Declare "ci3" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "ci4" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "cr2" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "cr3" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "cr4" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "ti1" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "ti2" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "ti3" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "ti4" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "tr1" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "tr2" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "tr3" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "tr4" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "w1r" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "w1i" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "w2r" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "w2i" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "w3r" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Ô"!Declare "w3i" on a separate line.(ã‹İïúÿÿÿÿ
+=
+java:S1659Õ"!Declare "iw2" on a separate line.(ÜÉ“øÿÿÿÿ
+=
+java:S1659Õ"!Declare "iw3" on a separate line.(ÜÉ“øÿÿÿÿ
+N
+java:S1197Ù"8Move the array designator from the variable to the type.(”±û^
+N
+java:S1197Ù"8Move the array designator from the variable to the type.(”±û^
+<
+java:S1659Û" Declare "ic" on a separate line.(õ¬´²úÿÿÿÿ
+=
+java:S1659Ü"!Declare "ci3" on a separate line.(î™ÉÂùÿÿÿÿ
+=
+java:S1659Ü"!Declare "ci4" on a separate line.(î™ÉÂùÿÿÿÿ
+=
+java:S1659Ü"!Declare "cr2" on a separate line.(î™ÉÂùÿÿÿÿ
+=
+java:S1659Ü"!Declare "cr3" on a separate line.(î™ÉÂùÿÿÿÿ
+=
+java:S1659Ü"!Declare "cr4" on a separate line.(î™ÉÂùÿÿÿÿ
+8
+java:S1659İ"!Declare "ti2" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "ti3" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "ti4" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "tr1" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "tr2" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "tr3" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "tr4" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "w1r" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "w1i" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "w2r" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "w2i" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "w3r" on a separate line.(ŸéÑã
+8
+java:S1659İ"!Declare "w3i" on a separate line.(ŸéÑã
+=
+java:S1659Ş"!Declare "iw2" on a separate line.(ÜÉ“øÿÿÿÿ
+=
+java:S1659Ş"!Declare "iw3" on a separate line.(ÜÉ“øÿÿÿÿ
+T
+java:S1197è"8Move the array designator from the variable to the type.(¢¯ÿïûÿÿÿÿ
+T
+java:S1197è"8Move the array designator from the variable to the type.(¢¯ÿïûÿÿÿÿ
+<
+java:S1659í" Declare "ic" on a separate line.(õ¬´²úÿÿÿÿ
+8
+java:S1659î"!Declare "di2" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "ci4" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "ci5" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "di3" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "di4" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "di5" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "ci3" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "cr2" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "cr3" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "dr2" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "dr3" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "dr4" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "dr5" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "cr5" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "cr4" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "ti2" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "ti3" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "ti5" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "ti4" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "tr2" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "tr3" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "tr4" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "tr5" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "w1r" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "w1i" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "w2r" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "w2i" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "w3r" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "w3i" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "w4r" on a separate line.(²øÈ¿
+8
+java:S1659î"!Declare "w4i" on a separate line.(²øÈ¿
+=
+java:S1659ï"!Declare "iw2" on a separate line.(¢Å‘÷ÿÿÿÿÿ
+=
+java:S1659ï"!Declare "iw3" on a separate line.(¢Å‘÷ÿÿÿÿÿ
+=
+java:S1659ï"!Declare "iw4" on a separate line.(¢Å‘÷ÿÿÿÿÿ
+T
+java:S1197÷"8Move the array designator from the variable to the type.(œÏ¦µıÿÿÿÿ
+T
+java:S1197÷"8Move the array designator from the variable to the type.(œÏ¦µıÿÿÿÿ
+<
+java:S1659ü" Declare "ic" on a separate line.(õ¬´²úÿÿÿÿ
+8
+java:S1659ı"!Declare "ci3" on a separate line.(öª
+8
+java:S1659ı"!Declare "ci4" on a separate line.(öª
+8
+java:S1659ı"!Declare "ci5" on a separate line.(öª
+8
+java:S1659ı"!Declare "di3" on a separate line.(öª
+8
+java:S1659ı"!Declare "di4" on a separate line.(öª
+8
+java:S1659ı"!Declare "di5" on a separate line.(öª
+8
+java:S1659ı"!Declare "di2" on a separate line.(öª
+8
+java:S1659ı"!Declare "cr2" on a separate line.(öª
+8
+java:S1659ı"!Declare "cr3" on a separate line.(öª
+8
+java:S1659ı"!Declare "cr5" on a separate line.(öª
+8
+java:S1659ı"!Declare "cr4" on a separate line.(öª
+8
+java:S1659ı"!Declare "ti2" on a separate line.(öª
+8
+java:S1659ı"!Declare "ti3" on a separate line.(öª
+8
+java:S1659ı"!Declare "ti4" on a separate line.(öª
+8
+java:S1659ı"!Declare "ti5" on a separate line.(öª
+8
+java:S1659ı"!Declare "dr3" on a separate line.(öª
+8
+java:S1659ı"!Declare "dr4" on a separate line.(öª
+8
+java:S1659ı"!Declare "dr5" on a separate line.(öª
+8
+java:S1659ı"!Declare "dr2" on a separate line.(öª
+8
+java:S1659ı"!Declare "tr2" on a separate line.(öª
+8
+java:S1659ı"!Declare "tr3" on a separate line.(öª
+8
+java:S1659ı"!Declare "tr4" on a separate line.(öª
+8
+java:S1659ı"!Declare "tr5" on a separate line.(öª
+8
+java:S1659ı"!Declare "w1r" on a separate line.(öª
+8
+java:S1659ı"!Declare "w1i" on a separate line.(öª
+8
+java:S1659ı"!Declare "w2r" on a separate line.(öª
+8
+java:S1659ı"!Declare "w2i" on a separate line.(öª
+8
+java:S1659ı"!Declare "w3r" on a separate line.(öª
+8
+java:S1659ı"!Declare "w3i" on a separate line.(öª
+8
+java:S1659ı"!Declare "w4r" on a separate line.(öª
+8
+java:S1659ı"!Declare "w4i" on a separate line.(öª
+=
+java:S1659ş"!Declare "iw2" on a separate line.(¢Å‘÷ÿÿÿÿÿ
+=
+java:S1659ş"!Declare "iw3" on a separate line.(¢Å‘÷ÿÿÿÿÿ
+=
+java:S1659ş"!Declare "iw4" on a separate line.(¢Å‘÷ÿÿÿÿÿ
+j
+java:S3776…"SRefactor this method to reduce its Cognitive Complexity from 113 to the 15 allowed.(³‚Ä—
+O
+java:S1197…"8Move the array designator from the variable to the type.(³‚Ä—
+O
+java:S1197…"8Move the array designator from the variable to the type.(³‚Ä—
+>
+java:S1659†""Declare "ipph" on a separate line.(ş‘éĞşÿÿÿÿ
+<
+java:S1659†" Declare "j2" on a separate line.(ş‘éĞşÿÿÿÿ
+<
+java:S1659†" Declare "ic" on a separate line.(ş‘éĞşÿÿÿÿ
+<
+java:S1659†" Declare "jc" on a separate line.(ş‘éĞşÿÿÿÿ
+<
+java:S1659†" Declare "lc" on a separate line.(ş‘éĞşÿÿÿÿ
+<
+java:S1659†" Declare "is" on a separate line.(ş‘éĞşÿÿÿÿ
+=
+java:S1659†"!Declare "nbd" on a separate line.(ş‘éĞşÿÿÿÿ
+8
+java:S1659‡"!Declare "ai1" on a separate line.(ÒßŸı
+8
+java:S1659‡"!Declare "ai2" on a separate line.(ÒßŸı
+8
+java:S1659‡"!Declare "ar1" on a separate line.(ÒßŸı
+8
+java:S1659‡"!Declare "ar2" on a separate line.(ÒßŸı
+8
+java:S1659‡"!Declare "ds2" on a separate line.(ÒßŸı
+8
+java:S1659‡"!Declare "dcp" on a separate line.(ÒßŸı
+8
+java:S1659‡"!Declare "arg" on a separate line.(ÒßŸı
+8
+java:S1659‡"!Declare "dsp" on a separate line.(ÒßŸı
+9
+java:S1659‡""Declare "ar1h" on a separate line.(ÒßŸı
+9
+java:S1659‡""Declare "ar2h" on a separate line.(ÒßŸı
+8
+java:S1659‡"!Declare "w1r" on a separate line.(ÒßŸı
+8
+java:S1659‡"!Declare "w1i" on a separate line.(ÒßŸı
+j
+java:S3776¦"SRefactor this method to reduce its Cognitive Complexity from 101 to the 15 allowed.(ÍƒÊË
+O
+java:S1197¦"8Move the array designator from the variable to the type.(ÍƒÊË
+O
+java:S1197¦"8Move the array designator from the variable to the type.(ÍƒÊË
+>
+java:S1659§""Declare "ipph" on a separate line.(©•Á÷şÿÿÿÿ
+<
+java:S1659§" Declare "j2" on a separate line.(©•Á÷şÿÿÿÿ
+<
+java:S1659§" Declare "ic" on a separate line.(©•Á÷şÿÿÿÿ
+<
+java:S1659§" Declare "jc" on a separate line.(©•Á÷şÿÿÿÿ
+<
+java:S1659§" Declare "lc" on a separate line.(©•Á÷şÿÿÿÿ
+<
+java:S1659§" Declare "is" on a separate line.(©•Á÷şÿÿÿÿ
+=
+java:S1659¨"!Declare "ai1" on a separate line.(ñïğıÿÿÿÿ
+=
+java:S1659¨"!Declare "ai2" on a separate line.(ñïğıÿÿÿÿ
+=
+java:S1659¨"!Declare "ar1" on a separate line.(ñïğıÿÿÿÿ
+=
+java:S1659¨"!Declare "ar2" on a separate line.(ñïğıÿÿÿÿ
+=
+java:S1659¨"!Declare "ds2" on a separate line.(ñïğıÿÿÿÿ
+=
+java:S1659¨"!Declare "w1r" on a separate line.(ñïğıÿÿÿÿ
+=
+java:S1659¨"!Declare "w1i" on a separate line.(ñïğıÿÿÿÿ
+=
+java:S1659ª"!Declare "arg" on a separate line.(è®¾˜ÿÿÿÿÿ
+=
+java:S1659ª"!Declare "dsp" on a separate line.(è®¾˜ÿÿÿÿÿ
+>
+java:S1659ª""Declare "ar1h" on a separate line.(è®¾˜ÿÿÿÿÿ
+>
+java:S1659ª""Declare "ar2h" on a separate line.(è®¾˜ÿÿÿÿÿ
+i
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(µßÍÇ
+O
+java:S1197Í"8Move the array designator from the variable to the type.(µßÍÇ
+7
+java:S1659Ï" Declare "l2" on a separate line.(ö®Á²
+7
+java:S1659Ğ" Declare "nf" on a separate line.(èò–Š
+7
+java:S1659Ğ" Declare "ip" on a separate line.(èò–Š
+7
+java:S1659Ğ" Declare "iw" on a separate line.(èò–Š
+8
+java:S1659Ğ"!Declare "ido" on a separate line.(èò–Š
+9
+java:S1659Ğ""Declare "idl1" on a separate line.(èò–Š
+8
+java:S1659Ô"!Declare "iw2" on a separate line.(‰îõÚ
+M
+java:S1117Ğ"6Rename "ip" which hides the field declared at line 14.(èò–Š
+W	java:S125™"<This block of commented-out lines of code should be removed.(×ÔĞ»ùÿÿÿÿ
+T
+java:S1197"8Move the array designator from the variable to the type.(—ÉÜìıÿÿÿÿ
+T
+java:S1197"8Move the array designator from the variable to the type.(—ÉÜìıÿÿÿÿ
+=
+java:S1659"!Declare "t1r" on a separate line.(—ì±øÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(ÌŒ¾Ñÿÿÿÿÿ
+O
+java:S1197Ô"8Move the array designator from the variable to the type.(­Ç…’
+O
+java:S1197Ô"8Move the array designator from the variable to the type.(­Ç…’
+=
+java:S1659×"!Declare "ci3" on a separate line.(ˆÖ‘øÿÿÿÿ
+=
+java:S1659×"!Declare "di2" on a separate line.(ˆÖ‘øÿÿÿÿ
+=
+java:S1659×"!Declare "di3" on a separate line.(ˆÖ‘øÿÿÿÿ
+=
+java:S1659×"!Declare "cr2" on a separate line.(ˆÖ‘øÿÿÿÿ
+=
+java:S1659×"!Declare "cr3" on a separate line.(ˆÖ‘øÿÿÿÿ
+=
+java:S1659×"!Declare "dr2" on a separate line.(ˆÖ‘øÿÿÿÿ
+=
+java:S1659×"!Declare "dr3" on a separate line.(ˆÖ‘øÿÿÿÿ
+=
+java:S1659×"!Declare "ti2" on a separate line.(ˆÖ‘øÿÿÿÿ
+=
+java:S1659×"!Declare "tr2" on a separate line.(ˆÖ‘øÿÿÿÿ
+8
+java:S1659Ø"!Declare "iw2" on a separate line.(‰îõÚ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(Äë¦
+T
+java:S1197¯"8Move the array designator from the variable to the type.(ì•­öşÿÿÿÿ
+T
+java:S1197¯"8Move the array designator from the variable to the type.(ì•­öşÿÿÿÿ
+=
+java:S1659°"!Declare "ci3" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "ci4" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "cr2" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "cr3" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "cr4" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "ti1" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "ti2" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "ti3" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "ti4" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "tr1" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "tr2" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "tr3" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659°"!Declare "tr4" on a separate line.(òÁµÖıÿÿÿÿ
+=
+java:S1659±"!Declare "iw2" on a separate line.(ÜÉ“øÿÿÿÿ
+=
+java:S1659±"!Declare "iw3" on a separate line.(ÜÉ“øÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(»ÉÛ­üÿÿÿÿ
+O
+java:S1197"8Move the array designator from the variable to the type.(­š™ó
+O
+java:S1197"8Move the array designator from the variable to the type.(­š™ó
+=
+java:S1659¥"!Declare "ci3" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "ci4" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "ci5" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "di3" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "di4" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "di5" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "di2" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "cr2" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "cr3" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "cr5" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "cr4" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "ti2" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "ti3" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "ti4" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "ti5" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "dr3" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "dr4" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "dr5" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "dr2" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "tr2" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "tr3" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "tr4" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¥"!Declare "tr5" on a separate line.(›õ—¯ıÿÿÿÿ
+=
+java:S1659¦"!Declare "iw2" on a separate line.(¢Å‘÷ÿÿÿÿÿ
+=
+java:S1659¦"!Declare "iw3" on a separate line.(¢Å‘÷ÿÿÿÿÿ
+=
+java:S1659¦"!Declare "iw4" on a separate line.(¢Å‘÷ÿÿÿÿÿ
+n
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.(‡¬ë‡şÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(×‰‘
+T
+java:S1197¶"8Move the array designator from the variable to the type.(‡¬ë‡şÿÿÿÿ
+T
+java:S1197¶"8Move the array designator from the variable to the type.(‡¬ë‡şÿÿÿÿ
+T
+java:S1197¶"8Move the array designator from the variable to the type.(‡¬ë‡şÿÿÿÿ
+8
+java:S1659·""Declare "idlj" on a separate line.(Â™ìL
+8
+java:S1659·""Declare "idot" on a separate line.(Â™ìL
+8
+java:S1659·""Declare "ipph" on a separate line.(Â™ìL
+5
+java:S1659·"Declare "l" on a separate line.(Â™ìL
+6
+java:S1659·" Declare "jc" on a separate line.(Â™ìL
+6
+java:S1659·" Declare "lc" on a separate line.(Â™ìL
+7
+java:S1659·"!Declare "idj" on a separate line.(Â™ìL
+7
+java:S1659·"!Declare "idl" on a separate line.(Â™ìL
+7
+java:S1659·"!Declare "inc" on a separate line.(Â™ìL
+7
+java:S1659·"!Declare "idp" on a separate line.(Â™ìL
+8
+java:S1659¸"!Declare "w1i" on a separate line.(Ç„“†
+8
+java:S1659¸"!Declare "w2i" on a separate line.(Ç„“†
+8
+java:S1659¸"!Declare "w2r" on a separate line.(Ç„“†
+<
+java:S1659°" Declare "k1" on a separate line.(ÂŞôéúÿÿÿÿ
+;
+java:S1659°"Declare "l" on a separate line.(ÂŞôéúÿÿÿÿ
+;
+java:S1659°"Declare "m" on a separate line.(ÂŞôéúÿÿÿÿ
+<
+java:S1659°" Declare "nh" on a separate line.(ÂŞôéúÿÿÿÿ
+<
+java:S1659°" Declare "nm" on a separate line.(ÂŞôéúÿÿÿÿ
+7
+java:S1659±" Declare "xi" on a separate line.(œèò
+7
+java:S1659±" Declare "yr" on a separate line.(œèò
+7
+java:S1659±" Declare "yi" on a separate line.(œèò
+9
+java:S1659²""Declare "idx1" on a separate line.(ŸàîÒ
+9
+java:S1659²""Declare "idx2" on a separate line.(ŸàîÒ
+<
+java:S1659Ì"" Declare "k1" on a separate line.(ÂŞôéúÿÿÿÿ
+;
+java:S1659Ì""Declare "l" on a separate line.(ÂŞôéúÿÿÿÿ
+;
+java:S1659Ì""Declare "m" on a separate line.(ÂŞôéúÿÿÿÿ
+<
+java:S1659Ì"" Declare "nh" on a separate line.(ÂŞôéúÿÿÿÿ
+<
+java:S1659Ì"" Declare "nm" on a separate line.(ÂŞôéúÿÿÿÿ
+7
+java:S1659Í"" Declare "xi" on a separate line.(œèò
+7
+java:S1659Í"" Declare "yr" on a separate line.(œèò
+7
+java:S1659Í"" Declare "yi" on a separate line.(œèò
+9
+java:S1659Î"""Declare "idx1" on a separate line.(ŸàîÒ
+9
+java:S1659Î"""Declare "idx2" on a separate line.(ŸàîÒ
+8
+java:S1659ğ%"!Declare "x1i" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x2r" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x2i" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x3r" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x3i" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x4r" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x4i" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x5r" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x5i" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x7r" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x7i" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x8r" on a separate line.(œà“Ì
+8
+java:S1659ğ%"!Declare "x8i" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x10r" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x10i" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x11r" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x11i" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x12r" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x12i" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x13r" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x13i" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x14r" on a separate line.(œà“Ì
+9
+java:S1659ğ%""Declare "x14i" on a separate line.(œà“Ì
+8
+java:S1659¥&"!Declare "x1i" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x2r" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x2i" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x3r" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x3i" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x4r" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x4i" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x5r" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x5i" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x6r" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x6i" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x7r" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x7i" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x8r" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x8i" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x9r" on a separate line.(Ö¶û¢
+8
+java:S1659¥&"!Declare "x9i" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x10r" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x10i" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x11r" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x11i" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x12r" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x12i" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x13r" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x13i" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x14r" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x14i" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x15r" on a separate line.(Ö¶û¢
+9
+java:S1659¥&""Declare "x15i" on a separate line.(Ö¶û¢
+=
+java:S1659æ&"!Declare "x1i" on a separate line.(ïçÍ£øÿÿÿÿ
+=
+java:S1659æ&"!Declare "x3r" on a separate line.(ïçÍ£øÿÿÿÿ
+=
+java:S1659æ&"!Declare "x3i" on a separate line.(ïçÍ£øÿÿÿÿ
+=
+java:S1659æ&"!Declare "x4r" on a separate line.(ïçÍ£øÿÿÿÿ
+=
+java:S1659æ&"!Declare "x4i" on a separate line.(ïçÍ£øÿÿÿÿ
+=
+java:S1659æ&"!Declare "x6r" on a separate line.(ïçÍ£øÿÿÿÿ
+=
+java:S1659æ&"!Declare "x6i" on a separate line.(ïçÍ£øÿÿÿÿ
+8
+java:S1659û&"!Declare "x1i" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x2r" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x2i" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x3r" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x3i" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x4r" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x4i" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x5r" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x5i" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x6r" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x6i" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x7r" on a separate line.(¤ß½œ
+8
+java:S1659û&"!Declare "x7i" on a separate line.(¤ß½œ
+<
+java:S1659œ'" Declare "j1" on a separate line.(óÜËÇøÿÿÿÿ
+<
+java:S1659œ'" Declare "j2" on a separate line.(óÜËÇøÿÿÿÿ
+<
+java:S1659œ'" Declare "j3" on a separate line.(óÜËÇøÿÿÿÿ
+;
+java:S1659œ'"Declare "k" on a separate line.(óÜËÇøÿÿÿÿ
+;
+java:S1659œ'"Declare "m" on a separate line.(óÜËÇøÿÿÿÿ
+<
+java:S1659œ'" Declare "mh" on a separate line.(óÜËÇøÿÿÿÿ
+>
+java:S1659'""Declare "csc1" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659'""Declare "csc3" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659'""Declare "wk1r" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659'""Declare "wk1i" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659'""Declare "wk3r" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659'""Declare "wk3i" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659'""Declare "wd1r" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659'""Declare "wd1i" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659'""Declare "wd3r" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659'""Declare "wd3i" on a separate line.(‚ÔÀÂüÿÿÿÿ
+=
+java:S1659'"!Declare "x0i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "x1r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "x1i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "x2r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "x2i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "x3r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "x3i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "y0r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "y0i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "y1r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "y1i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "y2r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "y2i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "y3r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659'"!Declare "y3i" on a separate line.(ùù¥ûûÿÿÿÿ
+9
+java:S1659Ÿ'""Declare "idx1" on a separate line.(Õ„³„
+9
+java:S1659Ÿ'""Declare "idx2" on a separate line.(Õ„³„
+9
+java:S1659Ÿ'""Declare "idx3" on a separate line.(Õ„³„
+9
+java:S1659Ÿ'""Declare "idx4" on a separate line.(Õ„³„
+9
+java:S1659Ÿ'""Declare "idx5" on a separate line.(Õ„³„
+<
+java:S1659ö(" Declare "j1" on a separate line.(óÜËÇøÿÿÿÿ
+<
+java:S1659ö(" Declare "j2" on a separate line.(óÜËÇøÿÿÿÿ
+<
+java:S1659ö(" Declare "j3" on a separate line.(óÜËÇøÿÿÿÿ
+;
+java:S1659ö("Declare "k" on a separate line.(óÜËÇøÿÿÿÿ
+;
+java:S1659ö("Declare "m" on a separate line.(óÜËÇøÿÿÿÿ
+<
+java:S1659ö(" Declare "mh" on a separate line.(óÜËÇøÿÿÿÿ
+>
+java:S1659÷(""Declare "csc1" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659÷(""Declare "csc3" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659÷(""Declare "wk1r" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659÷(""Declare "wk1i" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659÷(""Declare "wk3r" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659÷(""Declare "wk3i" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659÷(""Declare "wd1r" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659÷(""Declare "wd1i" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659÷(""Declare "wd3r" on a separate line.(‚ÔÀÂüÿÿÿÿ
+>
+java:S1659÷(""Declare "wd3i" on a separate line.(‚ÔÀÂüÿÿÿÿ
+=
+java:S1659ø("!Declare "x0i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "x1r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "x1i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "x2r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "x2i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "x3r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "x3i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "y0r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "y0i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "y1r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "y1i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "y2r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "y2i" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "y3r" on a separate line.(ùù¥ûûÿÿÿÿ
+=
+java:S1659ø("!Declare "y3i" on a separate line.(ùù¥ûûÿÿÿÿ
+9
+java:S1659ù(""Declare "idx1" on a separate line.(Õ„³„
+9
+java:S1659ù(""Declare "idx2" on a separate line.(Õ„³„
+9
+java:S1659ù(""Declare "idx3" on a separate line.(Õ„³„
+9
+java:S1659ù(""Declare "idx4" on a separate line.(Õ„³„
+9
+java:S1659ù(""Declare "idx5" on a separate line.(Õ„³„
+i	java:S100Ğ*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¾ëÂşÿÿÿÿ
+n
+java:S3776Ğ*"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¤¾ëÂşÿÿÿÿ
+6
+java:S1659Ò*"Declare "m" on a separate line.(œÒñï
+=
+java:S1659Ò*"&Declare "nthreads" on a separate line.(œÒñï
+6
+java:S1659ã*"Declare "j" on a separate line.(Ó¼¥Û
+6
+java:S1659ã*"Declare "k" on a separate line.(Ó¼¥Û
+6
+java:S1659ã*"Declare "m" on a separate line.(Ó¼¥Û
+6
+java:S1659÷*"Declare "j" on a separate line.(Ó¼¥Û
+6
+java:S1659÷*"Declare "k" on a separate line.(Ó¼¥Û
+6
+java:S1659÷*"Declare "m" on a separate line.(Ó¼¥Û
+6
+java:S1659+"Declare "j" on a separate line.(Ó¼¥Û
+6
+java:S1659+"Declare "k" on a separate line.(Ó¼¥Û
+6
+java:S1659+"Declare "m" on a separate line.(Ó¼¥Û
+n
+java:S3776¢+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(í°Şøÿÿÿÿ
+:
+java:S1659£+"#Declare "isplt" on a separate line.(ã½×
+6
+java:S1659£+"Declare "m" on a separate line.(ã½×
+<
+java:S1659û+" Declare "j1" on a separate line.(óÜËÇøÿÿÿÿ
+<
+java:S1659û+" Declare "j2" on a separate line.(óÜËÇøÿÿÿÿ
+<
+java:S1659û+" Declare "j3" on a separate line.(óÜËÇøÿÿÿÿ
+;
+java:S1659û+"Declare "k" on a separate line.(óÜËÇøÿÿÿÿ
+;
+java:S1659û+"Declare "m" on a separate line.(óÜËÇøÿÿÿÿ
+<
+java:S1659û+" Declare "mh" on a separate line.(óÜËÇøÿÿÿÿ
+>
+java:S1659ü+""Declare "wk1r" on a separate line.(ÌÂÔ§ùÿÿÿÿ
+>
+java:S1659ü+""Declare "wk1i" on a separate line.(ÌÂÔ§ùÿÿÿÿ
+>
+java:S1659ü+""Declare "wk3r" on a separate line.(ÌÂÔ§ùÿÿÿÿ
+>
+java:S1659ü+""Declare "wk3i" on a separate line.(ÌÂÔ§ùÿÿÿÿ
+=
+java:S1659ı+"!Declare "x0i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ı+"!Declare "x1r" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ı+"!Declare "x1i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ı+"!Declare "x2r" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ı+"!Declare "x2i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ı+"!Declare "x3r" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ı+"!Declare "x3i" on a separate line.(‚à¯ûúÿÿÿÿ
+9
+java:S1659ş+""Declare "idx1" on a separate line.(Õ„³„
+9
+java:S1659ş+""Declare "idx2" on a separate line.(Õ„³„
+9
+java:S1659ş+""Declare "idx3" on a separate line.(Õ„³„
+9
+java:S1659ş+""Declare "idx4" on a separate line.(Õ„³„
+9
+java:S1659ş+""Declare "idx5" on a separate line.(Õ„³„
+<
+java:S1659ø," Declare "j1" on a separate line.(·ß­ıÿÿÿÿ
+<
+java:S1659ø," Declare "j2" on a separate line.(·ß­ıÿÿÿÿ
+<
+java:S1659ø," Declare "j3" on a separate line.(·ß­ıÿÿÿÿ
+;
+java:S1659ø,"Declare "k" on a separate line.(·ß­ıÿÿÿÿ
+<
+java:S1659ø," Declare "kr" on a separate line.(·ß­ıÿÿÿÿ
+;
+java:S1659ø,"Declare "m" on a separate line.(·ß­ıÿÿÿÿ
+<
+java:S1659ø," Declare "mh" on a separate line.(·ß­ıÿÿÿÿ
+9
+java:S1659ù,""Declare "wk1r" on a separate line.(şÙšå
+9
+java:S1659ù,""Declare "wk1i" on a separate line.(şÙšå
+9
+java:S1659ù,""Declare "wk3r" on a separate line.(şÙšå
+9
+java:S1659ù,""Declare "wk3i" on a separate line.(şÙšå
+9
+java:S1659ù,""Declare "wd1r" on a separate line.(şÙšå
+9
+java:S1659ù,""Declare "wd1i" on a separate line.(şÙšå
+9
+java:S1659ù,""Declare "wd3r" on a separate line.(şÙšå
+9
+java:S1659ù,""Declare "wd3i" on a separate line.(şÙšå
+=
+java:S1659ú,"!Declare "x0i" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "x1r" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "x1i" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "x2r" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "x2i" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "x3r" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "x3i" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "y0r" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "y0i" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "y2r" on a separate line.(üò¾²ıÿÿÿÿ
+=
+java:S1659ú,"!Declare "y2i" on a separate line.(üò¾²ıÿÿÿÿ
+>
+java:S1659û,""Declare "idx1" on a separate line.(Û‰ñ¸ÿÿÿÿÿ
+>
+java:S1659û,""Declare "idx2" on a separate line.(Û‰ñ¸ÿÿÿÿÿ
+>
+java:S1659û,""Declare "idx3" on a separate line.(Û‰ñ¸ÿÿÿÿÿ
+>
+java:S1659û,""Declare "idx4" on a separate line.(Û‰ñ¸ÿÿÿÿÿ
+>
+java:S1659û,""Declare "idx5" on a separate line.(Û‰ñ¸ÿÿÿÿÿ
+>
+java:S1659û,""Declare "idx6" on a separate line.(Û‰ñ¸ÿÿÿÿÿ
+>
+java:S1659œ.""Declare "wk1r" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "wk1i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "x0r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "x0i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "x1r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "x1i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "x2r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "x2i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "x3r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "x3i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y0r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y0i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y1r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y1i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y2r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y2i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y3r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y3i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y4r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y4i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y5r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y5i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y6r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y6i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y7r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y7i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y8r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y8i" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y9r" on a separate line.(Š›ñ†üÿÿÿÿ
+=
+java:S1659œ."!Declare "y9i" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y10r" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y10i" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y11r" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y11i" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y12r" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y12i" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y13r" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y13i" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y14r" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y14i" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y15r" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659œ.""Declare "y15i" on a separate line.(Š›ñ†üÿÿÿÿ
+>
+java:S1659µ/""Declare "wk1r" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "wk1i" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "wk2r" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "wk2i" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "wk3r" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "wk3i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "x0r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "x0i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "x1r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "x1i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "x2r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "x2i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y0r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y0i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y1r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y1i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y2r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y2i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y3r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y3i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y4r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y4i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y5r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y5i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y6r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y6i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y7r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y7i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y8r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y8i" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y9r" on a separate line.(ÕúûŸøÿÿÿÿ
+=
+java:S1659µ/"!Declare "y9i" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y10r" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y10i" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y11r" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y11i" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y12r" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y12i" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y13r" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y13i" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y14r" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y14i" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y15r" on a separate line.(ÕúûŸøÿÿÿÿ
+>
+java:S1659µ/""Declare "y15i" on a separate line.(ÕúûŸøÿÿÿÿ
+8
+java:S1659å0"!Declare "x0r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "x0i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "x1r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "x1i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "x2r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "x2i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "x3r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "x3i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y0r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y0i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y1r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y1i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y2r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y2i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y3r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y3i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y4r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y4i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y5r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y5i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y6r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y6i" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y7r" on a separate line.(ëå Î
+8
+java:S1659å0"!Declare "y7i" on a separate line.(ëå Î
+9
+java:S1659Ÿ1""Declare "wk1r" on a separate line.(ÚÏ×°
+9
+java:S1659Ÿ1""Declare "wk1i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "x0r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "x0i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "x1r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "x1i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y0r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y0i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y1r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y1i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y2r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y2i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y3r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y3i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y4r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y4i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y5r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y5i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y6r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y6i" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y7r" on a separate line.(ÚÏ×°
+8
+java:S1659Ÿ1"!Declare "y7i" on a separate line.(ÚÏ×°
+=
+java:S1659ã1"!Declare "x0i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ã1"!Declare "x1r" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ã1"!Declare "x1i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ã1"!Declare "x2r" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ã1"!Declare "x2i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ã1"!Declare "x3r" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ã1"!Declare "x3i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ø1"!Declare "x0i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ø1"!Declare "x1r" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ø1"!Declare "x1i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ø1"!Declare "x2r" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ø1"!Declare "x2i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ø1"!Declare "x3r" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S1659ø1"!Declare "x3i" on a separate line.(‚à¯ûúÿÿÿÿ
+=
+java:S16592"!Declare "x0i" on a separate line.(Òü¢½ıÿÿÿÿ
+=
+java:S1659—2"!Declare "x0i" on a separate line.(Òü¢½ıÿÿÿÿ
+=
+java:S1659¢2"!Declare "x0i" on a separate line.(Òü¢½ıÿÿÿÿ
+7
+java:S1659¬2" Declare "kk" on a separate line.(‰ŠòÔ
+7
+java:S1659¬2" Declare "ks" on a separate line.(‰ŠòÔ
+6
+java:S1659¬2"Declare "m" on a separate line.(‰ŠòÔ
+8
+java:S1659­2"!Declare "wki" on a separate line.(­—Õ±
+7
+java:S1659­2" Declare "xr" on a separate line.(­—Õ±
+7
+java:S1659­2" Declare "xi" on a separate line.(­—Õ±
+7
+java:S1659­2" Declare "yr" on a separate line.(­—Õ±
+7
+java:S1659­2" Declare "yi" on a separate line.(­—Õ±
+8
+java:S1659®2""Declare "idx2" on a separate line.(†ş¾g
+7
+java:S1659Ç2" Declare "kk" on a separate line.(‰ŠòÔ
+7
+java:S1659Ç2" Declare "ks" on a separate line.(‰ŠòÔ
+6
+java:S1659Ç2"Declare "m" on a separate line.(‰ŠòÔ
+8
+java:S1659È2"!Declare "wki" on a separate line.(­—Õ±
+7
+java:S1659È2" Declare "xr" on a separate line.(­—Õ±
+7
+java:S1659È2" Declare "xi" on a separate line.(­—Õ±
+7
+java:S1659È2" Declare "yr" on a separate line.(­—Õ±
+7
+java:S1659È2" Declare "yi" on a separate line.(­—Õ±
+8
+java:S1659É2""Declare "idx2" on a separate line.(†ş¾g
+i
+java:S3776à2"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸÷¶

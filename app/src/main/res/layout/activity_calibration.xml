@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Calibration">
+
+    <TextView
+        android:id="@+id/calib_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="57dp"
+        android:layout_marginTop="89dp"
+        android:layout_marginEnd="57dp"
+        android:gravity="center_vertical"
+        android:text="Blood Pressure Calibration"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_systole_calib"
+        android:layout_width="141dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="83dp"
+        android:gravity="center"
+        android:text="Systole"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/calib_title" />
+
+    <EditText
+        android:id="@+id/ed_systole_calib"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="83dp"
+        android:layout_marginEnd="26dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/calib_title" />
+
+    <TextView
+        android:id="@+id/tv_diastole_calib"
+        android:layout_width="141dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="42dp"
+        android:gravity="center"
+        android:text="Diastole"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_systole_calib" />
+
+    <TextView
+        android:id="@+id/tv_heart_rate"
+        android:layout_width="141dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="42dp"
+        android:gravity="center"
+        android:text="Heart Rate"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_diastole_calib" />
+
+    <EditText
+        android:id="@+id/ed_heart_rate"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="26dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_diastole_calib" />
+
+    <EditText
+        android:id="@+id/et_diastole_calib"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="26dp"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ed_systole_calib" />
+
+    <Button
+        android:id="@+id/btn_calibrate_ok"
+        android:layout_width="136dp"
+        android:layout_height="74dp"
+        android:layout_marginStart="161dp"
+        android:layout_marginTop="69dp"
+        android:layout_marginEnd="154dp"
+        android:layout_marginBottom="205dp"
+        android:background="@drawable/circle1"
+        android:text="calibrate"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_heart_rate"
+        app:layout_constraintVertical_bias="0.0" />
+
+</android.support.constraint.ConstraintLayout>

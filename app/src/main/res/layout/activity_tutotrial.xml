@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tutotrial">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="349dp"
+        android:layout_height="97dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="43dp"
+        android:layout_marginEnd="31dp"
+
+        android:gravity="center_vertical"
+        android:text="Calibration needs to be done for better accuracy results. The user has to calibrate his/her Blood Pressure (SYS/DIA/HeartRate) values once every 30 days. "
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="347dp"
+        android:layout_height="92dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="31dp"
+        android:gravity="center_vertical"
+        android:text="Clicking the Measure BP button , the application turns on the flashlight and starts capturing the video frames from the camera. "
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="339dp"
+        android:layout_height="72dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="31dp"
+        android:gravity="center_vertical"
+        android:text="Place your finger on the camera covered over the flashlight light such that It captures a good video of length 45 sec approximately to produce results."
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="340dp"
+        android:layout_height="85dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="31dp"
+        android:gravity="center_vertical"
+        android:text="Additional care must be taken while holding the finger over the camera. The camera’s lens should be placed exactly in the center of the finger with a moderate amount of pressure applied over the lens.  "
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="173dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="119dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="119dp"
+        android:gravity="center"
+        android:text="Instructions"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

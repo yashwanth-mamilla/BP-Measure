@@ -1,0 +1,31 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ‡Çşÿÿÿÿ
+€
+java:S3008"jRename this field "THREADS_BEGIN_N_1D_FFT_2THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜœÌµ
+…
+java:S3008"jRename this field "THREADS_BEGIN_N_1D_FFT_4THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß™‰Şüÿÿÿÿ
+x
+java:S3008"]Rename this field "THREADS_BEGIN_N_2D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šµÅğúÿÿÿÿ
+s
+java:S3008"]Rename this field "THREADS_BEGIN_N_3D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼“
+i
+java:S3008"SRename this field "NTHREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ôÕœ
+7
+java:S1116/"Remove this empty statement.(ôŸìúÿÿÿÿ
+h	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ßÅşÿÿÿÿ
+h	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„×½óøÿÿÿÿ
+h	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¡ºÂúÿÿÿÿ
+h	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š˜¢Òøÿÿÿÿ
+h	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾„·›úÿÿÿÿ
+i	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­š†éúÿÿÿÿ
+i	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÛËÄúÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëğç¥
+i	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨İ›ıÿÿÿÿ
+I
+java:S1172æ"-Remove this unused method parameter "millis".(ª”º€şÿÿÿÿ
+u
+java:S2142é"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+B
+java:S1452õ"&Remove usage of generic wildcard type.(µà÷Æşÿÿÿÿ
+u
+java:S2142†"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€

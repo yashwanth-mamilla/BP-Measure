@@ -1,0 +1,28 @@
+
+_
+java:S1192+"IDefine a constant instead of duplicating this literal "UserInfo" 4 times.(ÃÆè²
+k	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øèöëýÿÿÿÿ
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ­’œ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+I
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äþÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'com.ppg.bpmeasure.Login.Register'.(Âë÷½
+O
+java:S1128"4Remove this unused import 'java.security.Timestamp'.(’ïÐ¦üÿÿÿÿ
+D
+java:S1659")Declare "ed_diastole" on a separate line.(±Àñ¾ÿÿÿÿÿ
+F
+java:S1659"+Declare "ed_heart_rate" on a separate line.(±Àñ¾ÿÿÿÿÿ
+<
+java:S1659"&Declare "diastole" on a separate line.(îîãƒ
+>
+java:S1659"(Declare "heart_rate" on a separate line.(îîãƒ
+o	java:S116"URename this field "ed_systole" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Àñ¾ÿÿÿÿÿ
+p	java:S116"VRename this field "ed_diastole" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Àñ¾ÿÿÿÿÿ
+r	java:S116"XRename this field "ed_heart_rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Àñ¾ÿÿÿÿÿ
+j	java:S116"URename this field "heart_rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îîãƒ
+r	java:S116"XRename this field "btn_calibrate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ’äÎþÿÿÿÿ
+f
+java:S1764B"KCorrect one of the identical sub-expressions on both sides of operator "&&"(«ë´Äøÿÿÿÿ

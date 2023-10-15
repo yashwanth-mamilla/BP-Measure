@@ -1,0 +1,26 @@
+
+r
+java:S1450"WRemove the "textView" field and declare it as a local variable in the relevant methods.(íëÇùÿÿÿÿ
+q
+java:S1450"VRemove the "tv_diat" field and declare it as a local variable in the relevant methods.(íëÇùÿÿÿÿ
+q
+java:S1450"VRemove the "tv_syst" field and declare it as a local variable in the relevant methods.(íëÇùÿÿÿÿ
+@
+java:S1659"%Declare "tv_syst" on a separate line.(íëÇùÿÿÿÿ
+@
+java:S1659"%Declare "tv_diat" on a separate line.(íëÇùÿÿÿÿ
+?
+java:S1659"$Declare "tv_hrt" on a separate line.(íëÇùÿÿÿÿ
+l	java:S116"RRename this field "tv_syst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íëÇùÿÿÿÿ
+l	java:S116"RRename this field "tv_diat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íëÇùÿÿÿÿ
+k	java:S116"QRename this field "tv_hrt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íëÇùÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "heartRate".(ì¼°ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(²±Ôşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(äöß“úÿÿÿÿ
+I
+java:S1481".Remove this unused "heartRate" local variable.(ì¼°ÿÿÿÿÿ
+G
+java:S1068",Remove this unused "textView" private field.(íëÇùÿÿÿÿ
+E
+java:S1068"*Remove this unused "tv_hrt" private field.(íëÇùÿÿÿÿ

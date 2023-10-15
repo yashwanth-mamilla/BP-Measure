@@ -1,0 +1,38 @@
+
+E
+java:S1444"*Make this "public static MALE" field final(°ÇµÃüÿÿÿÿ
+B
+java:S1444	",Make this "public static FEMALE" field final(ÜŒ’®
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ§üø
+k
+java:S1104"PMake MALE a static final constant or non-public and provide accessors if needed.(°ÇµÃüÿÿÿÿ
+h
+java:S1104	"RMake FEMALE a static final constant or non-public and provide accessors if needed.(ÜŒ’®
+f
+java:S1104
+"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+l
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ
+o
+java:S1104"TMake password a static final constant or non-public and provide accessors if needed.(¼şòüÿÿÿÿ
+m
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(õûÔºúÿÿÿÿ
+h
+java:S1104"RMake weight a static final constant or non-public and provide accessors if needed.(Éôõ¾
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(«ä£í
+h
+java:S1104"RMake gender a static final constant or non-public and provide accessors if needed.(Öòİœ
+s
+java:S1104"XMake ejectionTime a static final constant or non-public and provide accessors if needed.(îŠÔ¸ıÿÿÿÿ
+e
+java:S1104"OMake ROB a static final constant or non-public and provide accessors if needed.(‘ÓÆì
+t
+java:S1104"YMake timestampDate a static final constant or non-public and provide accessors if needed.(Ş€Ü€üÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.security.Timestamp'.(’ïĞ¦üÿÿÿÿ
+j
+java:S3008"ORename this field "MALE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÇµÃüÿÿÿÿ
+g
+java:S3008	"QRename this field "FEMALE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŒ’®
+c	java:S116"NRename this field "ROB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÓÆì

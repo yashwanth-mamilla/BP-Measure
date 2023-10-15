@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260927766926",
+    "firebase_url": "https://bpmeasure-b5085-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bpmeasure-b5085",
+    "storage_bucket": "bpmeasure-b5085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260927766926:android:fe859fe8f1ff54021e64df",
+        "android_client_info": {
+          "package_name": "com.ppg.bpmeasure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260927766926-u2arb1o5hhsmgphnfmfchu3e2v4ekgcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQL6G5n5Wen-UBzMSziVX-RnrVyaPyk6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260927766926-u2arb1o5hhsmgphnfmfchu3e2v4ekgcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

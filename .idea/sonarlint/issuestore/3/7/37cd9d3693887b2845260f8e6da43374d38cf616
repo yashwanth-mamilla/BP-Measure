@@ -1,0 +1,48 @@
+
+f
+java:S1301n"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+k
+java:S11045"PMake user a static final constant or non-public and provide accessors if needed.(öÙü«ıÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'com.google.firebase.database.DataSnapshot'.(şÇŒ„
+`
+java:S1128"KRemove this unused import 'com.google.firebase.database.DatabaseReference'.(ÉÓ¹
+I
+java:S1128$".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+`
+java:S1128"JRemove this unused import 'com.google.firebase.database.FirebaseDatabase'.(×Ë—
+g
+java:S1128"LRemove this unused import 'com.google.firebase.database.ValueEventListener'.(‹ŞÜ‹ıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+W
+java:S1128	"<Remove this unused import 'android.support.v4.app.Fragment'.(îñ«úÿÿÿÿ
+J
+java:S1128#"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜
+[
+java:S1128!"@Remove this unused import 'com.ppg.bpmeasure.Math.StaticConfig'.(û¬Û²øÿÿÿÿ
+b
+java:S1128"GRemove this unused import 'com.google.firebase.database.DatabaseError'.(ˆÔµıÿÿÿÿ
+q
+java:S1450."VRemove the "adapter" field and declare it as a local variable in the relevant methods.(§ì€Ğüÿÿÿÿ
+s
+java:S1450-"XRemove the "viewPager" field and declare it as a local variable in the relevant methods.(åÙ¬Ïûÿÿÿÿ
+d
+java:S3008("NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åœõÏ
+:
+java:S16593"$Declare "tv_age" on a separate line.(š”‘¼
+<
+java:S16593"&Declare "tv_email" on a separate line.(š”‘¼
+g	java:S1163"RRename this field "tv_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š”‘¼
+f	java:S1163"QRename this field "tv_age" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š”‘¼
+h	java:S1163"SRename this field "tv_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š”‘¼
+r
+java:S3252T"\Use static access with "android.support.v4.content.ContextCompat" for "checkSelfPermission".(‡¿ß
+Q	java:S125\"<This block of commented-out lines of code should be removed.(÷š½ï
+V	java:S125a"<This block of commented-out lines of code should be removed.(Šò¾üÿÿÿÿ
+P	java:S125h"<This block of commented-out lines of code should be removed.(Êğæ7
+<	java:S131n""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+\
+java:S1161x":Add the "@Override" annotation above this method signature(œƒƒ©ùÿÿÿÿ8ÈØåèÔ/
+=
+java:S1068("'Remove this unused "TAG" private field.(åœõÏ

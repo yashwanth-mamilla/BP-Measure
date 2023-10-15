@@ -1,0 +1,36 @@
+
+d
+java:S1192I"IDefine a constant instead of duplicating this literal "UserInfo" 4 times.(ƒâîôüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÂÒí
+E
+java:S1604P"(Make this anonymous inner class a lambda(¿Ø¡Ù8‹Â¼ßÔ/
+J
+java:S1604b"(Make this anonymous inner class a lambda(âšèúÿÿÿÿ8ŒÂ¼ßÔ/
+E
+java:S1604l"(Make this anonymous inner class a lambda(íûı¼8ŒÂ¼ßÔ/
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8Ôˆ°ßÔ/
+Y
+java:S1128"DRemove this unused import 'android.graphics.drawable.ShapeDrawable'.(Õ¬k
+S
+java:S1128"=Remove this unused import 'com.ppg.bpmeasure.Login.Register'.(Âë÷½
+Z
+java:S1128"?Remove this unused import 'android.graphics.drawable.Drawable'.(Á‰º„ùÿÿÿÿ
+l
+java:S1450)"VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘
+l
+java:S1450*"VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ 
+A
+java:S1659,"&Declare "tutorial" on a separate line.(‰•Õ¤úÿÿÿÿ
+B
+java:S1659,"'Declare "calibrate" on a separate line.(‰•Õ¤úÿÿÿÿ
+M
+java:S1135#"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ
+M
+java:S1135("2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ
+M
+java:S1135;"2Complete the task associated to this TODO comment.(ßíŠÿÿÿÿÿ
+A
+java:S1068)"+Remove this unused "mParam1" private field.(•Íï‘
+A
+java:S1068*"+Remove this unused "mParam2" private field.(¡ˆ€ 

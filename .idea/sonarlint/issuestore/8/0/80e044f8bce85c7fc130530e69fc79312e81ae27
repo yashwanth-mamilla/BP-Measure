@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ§üø
+k
+java:S1104"UMake heartRate a static final constant or non-public and provide accessors if needed.(ìÕûª
+p
+java:S1104"TMake systolic a static final constant or non-public and provide accessors if needed.(ãÇ¼18‘„–§Ğ/
+p
+java:S1104"UMake diastolic a static final constant or non-public and provide accessors if needed.(À¶“øÿÿÿÿ
+k
+java:S1104"UMake timestamp a static final constant or non-public and provide accessors if needed.(Ä¢Û

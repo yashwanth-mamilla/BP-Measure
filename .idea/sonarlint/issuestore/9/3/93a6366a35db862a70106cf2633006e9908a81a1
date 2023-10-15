@@ -1,0 +1,18 @@
+
+k
+java:S3973T"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8»†èÔ/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÿ‹
+>
+java:S16044"(Make this anonymous inner class a lambda(©º¬
+C
+java:S1604C"(Make this anonymous inner class a lambda(ÿâåÀúÿÿÿÿ
+C
+java:S1604="(Make this anonymous inner class a lambda(ç¯€ùÿÿÿÿ
+\
+java:S1128":Remove this unused import 'com.ppg.bpmeasure.Calibration'.(®äû´ûÿÿÿÿ8µ‰èÔ/
+j
+java:S1450""TRemove the "login" field and declare it as a local variable in the relevant methods.(õ¸€§
+p
+java:S1450!"URemove the "signup" field and declare it as a local variable in the relevant methods.(õ‘Ÿ±úÿÿÿÿ
+n	java:S116$"TRename this field "email_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óé‰«ûÿÿÿÿ
+m	java:S116%"SRename this field "pass_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÎı­ùÿÿÿÿ

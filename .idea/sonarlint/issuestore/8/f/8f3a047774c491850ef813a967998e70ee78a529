@@ -1,0 +1,53 @@
+
+F
+java:S3740"/Provide the parametrized type for this generic.(¥ü¬©
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÿ‹
+-
+java:S17003"Rename field "register"(Ø†²
+C
+java:S1604H"(Make this anonymous inner class a lambda(Õèúÿÿÿÿ
+>
+java:S1604T"(Make this anonymous inner class a lambda(„šóÅ
+>
+java:S1604^"(Make this anonymous inner class a lambda(á‡¤Å
+x
+java:S1488º"\Immediately return this expression instead of assigning it to the temporary variable "ages".(ØÙÏ¥úÿÿÿÿ
+[
+java:S1128"?Remove this unused import 'android.support.annotation.NonNull'.(¼Åß8—ÆŒòÔ/
+[
+java:S1128">Remove this unused import 'com.google.android.gms.tasks.Task'.(¦âÏô8—ÆŒòÔ/
+R
+java:S1128"<Remove this unused import 'com.ppg.bpmeasure.MainActivity2'.(Êë§ê
+\
+java:S1128":Remove this unused import 'com.ppg.bpmeasure.Calibration'.(®äû´ûÿÿÿÿ8°Ğ×ÛÔ/
+\
+java:S1128"@Remove this unused import 'com.google.firebase.auth.AuthResult'.(âÂ8˜ÆŒòÔ/
+A
+java:S1659)"&Declare "et_email" on a separate line.(Õû°ıûÿÿÿÿ
+D
+java:S1659)")Declare "et_password" on a separate line.(Õû°ıûÿÿÿÿ
+B
+java:S1659)"'Declare "et_height" on a separate line.(Õû°ıûÿÿÿÿ
+B
+java:S1659)"'Declare "et_weight" on a separate line.(Õû°ıûÿÿÿÿ
+9
+java:S1659."#Declare "email" on a separate line.(ò¨öË
+<
+java:S1659."&Declare "password" on a separate line.(ò¨öË
+:
+java:S1659/"$Declare "weight" on a separate line.(¬ßŞ
+7
+java:S1659/"!Declare "age" on a separate line.(¬ßŞ
+l	java:S116)"RRename this field "et_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õû°ıûÿÿÿÿ
+m	java:S116)"SRename this field "et_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õû°ıûÿÿÿÿ
+p	java:S116)"VRename this field "et_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õû°ıûÿÿÿÿ
+n	java:S116)"TRename this field "et_height" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õû°ıûÿÿÿÿ
+n	java:S116)"TRename this field "et_weight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õû°ıûÿÿÿÿ
+d	java:S116*"QRename this field "tv_age" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â½0
+]	java:S125e"<This block of commented-out lines of code should be removed.(âÜˆ—ıÿÿÿÿ8ğ°ÄÛÔ/
+V
+java:S1117Ÿ"8Rename "user" which hides the field declared at line 37.(íÓ£8çÖÚÛÔ/
+U
+java:S1117´"7Rename "age" which hides the field declared at line 47.(ªõ‘Ú8êÖÚÛÔ/
+E
+java:S1144i"(Remove this unused private "fun" method.(¥ÓÌö8‰±ÄÛÔ/

@@ -1,0 +1,40 @@
+
+Y
+java:S1128">Remove this unused import 'android.content.pm.PackageManager'.(€®¥õÿÿÿÿÿ
+I
+java:S1128%".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+J
+java:S1128$"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜
+]
+java:S1128
+"BRemove this unused import 'android.support.v4.app.ActivityCompat'.(Äüþÿÿÿÿ
+S
+java:S1128">Remove this unused import 'android.support.v7.widget.Toolbar'.(à½£
+d
+java:S1128"IRemove this unused import 'android.support.v7.app.ActionBarDrawerToggle'.(Å¡à©ÿÿÿÿÿ
+q
+java:S1450/"VRemove the "adapter" field and declare it as a local variable in the relevant methods.(§ì€Ðüÿÿÿÿ
+i
+java:S3008)"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÝ½æøÿÿÿÿ
+:
+java:S16594"$Declare "tv_age" on a separate line.(š”‘¼
+<
+java:S16594"&Declare "tv_email" on a separate line.(š”‘¼
+g	java:S1164"RRename this field "tv_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š”‘¼
+f	java:S1164"QRename this field "tv_age" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š”‘¼
+h	java:S1164"SRename this field "tv_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š”‘¼
+k	java:S1165"VRename this field "signout_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¨§Û
+]	java:S125;"<This block of commented-out lines of code should be removed.(Ôù•þÿÿÿÿ8¿¬¶íÔ/
+]	java:S125="<This block of commented-out lines of code should be removed.(Ä´³ýÿÿÿÿ8¸Ï¶íÔ/
+V	java:S125S"<This block of commented-out lines of code should be removed.(‚“êæýÿÿÿÿ
+P	java:S125`"<This block of commented-out lines of code should be removed.(Êðæ7
+V	java:S125k"<This block of commented-out lines of code should be removed.(øð†²ýÿÿÿÿ
+Q	java:S125o"<This block of commented-out lines of code should be removed.(ÂŒÖ¶
+Q	java:S125u"<This block of commented-out lines of code should be removed.(ëìÞŠ
+T
+java:S2696"6Make the enclosing method "static" or remove this set.(ŸÞ‡ü8×¬ŽÈÔ/
+¤
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ð÷‘Þÿÿÿÿÿ8Ù¬ŽÈÔ/
+^	java:S125Š"<This block of commented-out lines of code should be removed.(‚“êæýÿÿÿÿ8ÉÚ¡ÈÔ/
+A
+java:S1144j",Remove this unused private "initTab" method.(‰°Óy
